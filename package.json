@@ -1,0 +1,14 @@
+{
+  "name": "nieva_tatiana_valeria_3866_tp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nieva Tatiana Valeria 3866",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
